@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sage-reach-319213",
+  "private_key_id": "129e02ce0603e074a2622fabe810f2be033cd957",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChoI7H/PU1VGdh\nJ3EHBwT5acAUINTfEUqgMZInQrXGcNA9JcTc0ueYecurFyCUaZp9WVqQn5kSY4Q/\nfsfu5AHqtHkoRLlAbFX4Ua9oDtarQPjWToe4b7H0gcKeZ/Z15SDZTA3yhGWY9U8a\nJdcq3R+bv5+XAkVkJuU1TOi3Z7BI7FPpdc1STdiglPcFieMybPfUIS1CB73zW679\nQEmZxCPoWDV6twlJBiIIejNuvvzPvqk+g0Gnc1gGGaIO3NWOY4M+7Ki4xprotGZW\nCBWL3PD1bFcws9lc7+QVtD1tpbjSXrp1oxaRnJaVlMrarT/2V+74EMfKrXtYU134\ncij7x7xNAgMBAAECggEAAa9eFbUsLEZpPoDOA5v94AjLdRpDheDVBZcGtkySfxNh\nhGWup/u16OfKKQo4b3urXeeu00eqrZ+mew/8DyBG6dbAVZxjzwliGxDk8oGHGOl4\nPqm6bgCSGyG4MPUWA3QkU8egdJkPQxk5niTrWZnNEM9eX1FpfkoOhS/8VB8rXhM+\nbZr17ypZePY9bV5PDOZVIJF2L+85IRYqLWCJOtc2W1QBylsiQTgK5spmMF1384Ix\nZK9lGnVE5BDeUDlR31mSY+b84wG8bBizPk5i9prpCezrgL7CYkBqMwu/JwcFmSWs\n67YSFsNQ/fyyIOQ/J9PtdjDbC2GGPYrHMrad8/y2oQKBgQDQXn1LADSbDvNZ6Jvt\ni3tJhZdliAzeiTYDzyKDokoKY8rOuYMnxHqqrt5gNYYTOg6IyOlpQmvHOfnSNOZR\npxOWZHbt71wkh2SLJN2P3Y/f/9Aqp2IuSdUbYRE6kgsZiwDrsZYn9GhElZf/kTC1\nXjEfRZWgANKp/02mgIZJpam2bQKBgQDGksl40BJx0E+BuIVEWbXQ0ITQShPzz/Ms\n5bkhtz2zxuv2rt8pavSEzq1ZWoKDHkxnsbkF4TCmT0I76XZWsOksRxGs7PbmeN7z\nQ0oU58Sg/d5U8KHlJVofjWjEjuqptNuUu5+Zt7+bCuBeaOmmMvT2zo6M9QLE9Vm+\nB05B1pHxYQKBgE3FhsRQnlHloaTEMjbWYbzOVPS7c/o3gmankD1LfJEmMBM6oJ5e\nMl60iCGmuJVCjRw2yQ/Vj767f+gagICneKMgeldSiLTFqBxbNSs2SjYUGBFjijy2\nqAjhEPooemYdQMm37dCZ47T9lM751RFMx87hPPiMdhSnSsdDn1urro19AoGAA+P0\nVo2dDuXJ6Py4f7JSQZkUQRBye6BjX0nQ6rwwVUlcbiTW8nTJ/aAe/VUsoW0CijWN\nLnRPA7Mh1RKp4uDscJWj3wN1guZzV8jFtssjqxPOO1PLmDW3Ik8e8lrqdhC5DJzw\nb46ODneUFcVwbnUpH3zEhjZ2q20zKOnzuo59pYECgYEAv7swPGiEfqDjOfH3XQvi\n/vL1nd0CdodeUBevoOTfkYhLaXcW+anTH+Dndd5BkL1bFR+V+kWF8a94EK0pwFde\nMTL6nDCIG68Fiwy9sn+OyuW/HnDELx4U/nZjvlEdjDE96DW9801GnOp3MXqDwA1W\nw3HEuSZlgywzi1+QG92GLUc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-c1-xnf6ddl4bvpwr8nfrofqoqz@sage-reach-319213.iam.gserviceaccount.com",
+  "client_id": "105072195492305905755",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-c1-xnf6ddl4bvpwr8nfrofqoqz%40sage-reach-319213.iam.gserviceaccount.com"
+}
